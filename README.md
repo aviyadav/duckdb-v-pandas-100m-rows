@@ -1,6 +1,8 @@
 # duckdb-v-pandas-100m-rows
 
 
+Results of benchmark for 100m rows (in sec)
+
 
 | Framework | Scan   | Filter | GroupBy  | Join   |
 | --------- | -----  | ------ | -------- | -----  |
